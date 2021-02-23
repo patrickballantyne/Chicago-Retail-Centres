@@ -24,7 +24,7 @@ This repo contains all the code used to extract and classify retail centres for 
 *Part One - Delineating Urban Retail Centres*
 
    <p align="center">
-  <img width = 750 src="HDBSCAN.png">
+  <img width = 500 src="HDBSCAN.png">
 </p>
 
 
