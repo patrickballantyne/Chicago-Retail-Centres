@@ -21,10 +21,10 @@ This repo contains all the code used to extract and classify retail centres for 
 
 ---
 
-### Delineating Urban Retail Centres
+*Part One - Delineating Urban Retail Centres*
 
    <p align="center">
-  <img src="HDBSCAN.png">
+  <img width = 300 src="HDBSCAN.png">
 </p>
 
 
@@ -34,4 +34,4 @@ This repo contains all the code used to extract and classify retail centres for 
 
 ---
 
-### A Typology of Retail Centres
+*Part Two - A Typology of Retail Centres*
