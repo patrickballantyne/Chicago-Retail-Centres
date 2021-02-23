@@ -25,13 +25,15 @@ This repo contains all the code used to extract and classify retail centres for 
 
 Retail Centres were delineated by combining two approaches:
 
-* Unsupervised machine learning (HDBSCAN), with network distance matrices
-* Using H3 geometries and Graph objects to identify contiguous tracts of retail locations
+* Unsupervised machine learning (HDBSCAN), with network distance matrices [image on left]
+* Using H3 geometries and Graph objects to identify contiguous tracts of retail locations [image on right]
+
+A barebones example has been provided in the file titled 'retail_centre_delineation.md', where you can see an example of how to extract retail centres using this approach.
 
 
 <p float="left">
-  <img src="HDBSCAN.png" width="500" height = "350" alt = "hello" />
-  <img src="H3.png" width="500" height = "350" alt = "hellow3" /> 
+  <img src="HDBSCAN.png" width="500" height = "350"  />
+  <img src="H3.png" width="500" height = "350"  /> 
 </p>
 
 
