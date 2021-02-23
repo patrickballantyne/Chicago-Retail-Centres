@@ -29,7 +29,7 @@ This repo contains all the code used to extract and classify retail centres for 
 
 
    <p align="center">
-  <img src="H3.png">
+  <img width = 500 src="H3.png">
 </p>
 
 ---
