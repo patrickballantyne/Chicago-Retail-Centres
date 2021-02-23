@@ -14,11 +14,14 @@ Concentrations of retail units and their associated activities, formally defined
 
 *ChicagoRetailCentres*
 
-This repo contains all the code used to extract and classify retail centres for the Chicago Metropolitan Area. 
+This repo contains all the code used to extract and classify retail centres for the Chicago Metropolitan Area. For clarity, we have divided the code into two sections:
 
+1. Delineating Urban Retail Centres
+2. A Typology of Retail Centres
 
+---
 
-
+### Delineating Urban Retail Centres
 
    <p align="center">
   <img src="HDBSCAN.png">
@@ -28,3 +31,7 @@ This repo contains all the code used to extract and classify retail centres for 
    <p align="center">
   <img src="H3.png">
 </p>
+
+---
+
+### A Typology of Retail Centres
