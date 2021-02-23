@@ -31,6 +31,9 @@ Retail Centres were delineated by combining two approaches:
 A barebones example has been provided in the file titled 'retail_centre_delineation.md', where you can see an example of how to extract retail centres using this approach.
 
 
+
+---
+
 <p float="left">
   <img src="HDBSCAN.png" width="500" height = "350"  />
   <img src="H3.png" width="500" height = "350"  /> 
