@@ -30,8 +30,6 @@ Retail Centres were delineated by combining two approaches:
 
 A barebones example has been provided in the file titled 'retail_centre_delineation.md', where you can see an example of how to extract retail centres using this approach.
 
-
-
 ---
 
 <p float="left">
@@ -39,9 +37,10 @@ A barebones example has been provided in the file titled 'retail_centre_delineat
   <img src="H3.png" width="500" height = "350"  /> 
 </p>
 
-
-
-
 ---
 
 *Part Two - A Typology of Retail Centres*
+
+The typology was extracted using the PAM (partitioning around medoids) algorithm, which uses median values over means, giving it a significant advantage over k means. 20 variables were used, and clustergrams in conjunction with average silhouette scores were used to determine the optimal *k* value.
+
+A barebones example has been provided in 'retail_centre_typology.md', where you can see an example of how you could extract a typology similar to mine using this approach.
