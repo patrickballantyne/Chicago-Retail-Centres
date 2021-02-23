@@ -25,7 +25,7 @@ This repo contains all the code used to extract and classify retail centres for 
 
 <p float="left">
   <img src="HDBSCAN.png" width="500" />
-  <img src="H3.png" width="500" height = "500" /> 
+  <img src="H3.png" width="500" height = "350" /> 
 </p>
 
 
