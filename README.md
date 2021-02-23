@@ -1,7 +1,6 @@
 # Chicago-Retail-Centres
 
 ## A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations: The Case Study of Chicago Metropolitan Area during COVID-19
-
 ### Patrick Ballantyne, Alex Singleton, Les Dolega, Kevin Credit
 
 *Abstract*
