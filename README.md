@@ -19,8 +19,8 @@ This repo contains all the code used to extract and classify retail centres for 
 
 *Presentation*
 
-This paper was presented at GISRUK 2021 in the 'Retail and Business Session', and you can watch the presentation back at: 
+This paper was presented at GISRUK 2021 in the 'Retail and Business Session', and you can watch the presentation below: 
 
 [![image](https://user-images.githubusercontent.com/43341895/119144938-130a1300-ba41-11eb-99d8-b6f2f23af03b.png)](https://www.youtube.com/watch?v=ZyFcNIUWXJM&t=512s)
 
-![Uploading image.png…]()
+
