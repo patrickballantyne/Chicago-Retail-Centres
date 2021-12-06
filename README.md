@@ -13,7 +13,7 @@ Concentrations of retail units and their associated activities, formally defined
 
 *Published Article*
 
-The article, published in Environment and Planning B: Urban Analytics and City Science, is available open-access [here](https://journals.sagepub.com/doi/abs/10.1177/23998083211040519)
+The article, published in Environment and Planning B: Urban Analytics and City Science, is available open-access [HERE](https://journals.sagepub.com/doi/abs/10.1177/23998083211040519)
 
 ---
 
