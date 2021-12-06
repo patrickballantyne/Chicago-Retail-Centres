@@ -11,6 +11,13 @@ Concentrations of retail units and their associated activities, formally defined
 
 ---
 
+*Published Article*
+
+The article, published in Environment and Planning B: Urban Analytics and City Science, is available open-access [here](https://journals.sagepub.com/doi/abs/10.1177/23998083211040519)
+
+---
+
+
 *ChicagoRetailCentres*
 
 This repo contains all the code used to extract and classify retail centres for the Chicago Metropolitan Area. For clarity, we have divided the code into two sections:
