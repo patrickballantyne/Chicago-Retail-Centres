@@ -1,7 +1,10 @@
 # Chicago-Retail-Centres
 
 ### A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations.
-Patrick Ballantyne, Alex Singleton, Les Dolega, Kevin Credit.
+
+**Authors**: Patrick Ballantyne, Alex Singleton, Les Dolega, Kevin Credit
+
+**Paper**: https://journals.sagepub.com/doi/full/10.1177/23998083211040519
 
 ---
 
